@@ -1,0 +1,1 @@
+var registrationApp = angular.module('registrationApp',["ngResource"]);
